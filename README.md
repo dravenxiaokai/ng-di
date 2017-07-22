@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NgDi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
@@ -26,3 +27,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# ng-di
+dependency injection in angular 使用工厂和值声明提供器
+>>>>>>> a2f8b39067978249d48ee21826cad822c4d43bb2
